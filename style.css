@@ -11,12 +11,8 @@ body {
     color: #fff;
 }
 body::selection{
-    color: #DDCDF7;
-    background-image: linear-gradient(180deg, #DDCDF7, #BA89FA 29%, #9733EE 45%, #DA22FF 100%);
-    background-clip: text;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    display: inline-block;
+    color: purple;
+    background-color: #BA89FA;
 }
 
 /* common css */
@@ -2011,6 +2007,7 @@ video {
     }
 
 }
+
 
 
 
