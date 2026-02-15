@@ -509,7 +509,7 @@ footer ul {
         text-align: center;
     }
     .navbar .navbar-toggler-icon {
-        background-image: url("/image/favicon-32x32.png") !important;
+        background-image: url("image/favicon-32x32.png") !important;
     }
     .navbar .container-fluid {
         flex-direction: row-reverse;
@@ -2004,6 +2004,7 @@ video {
     }
 
 }
+
 
 
 
